@@ -1,2 +1,2 @@
 # MeowBarkExtension
-Chrome Extension for Charissa's Birthday
+Chrome Extension for Charisa's Birthday
