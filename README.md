@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Albedo Chrome Extension** is a delightful browser extension dedicated to the Genshin Impact character, Albedo. It was created as a birthday gift for a friend who's a big fan of Albedo.
+The **Albedo Chrome Extension** is a browser extension dedicated to the Genshin Impact character, Albedo. It was created as a birthday gift for a friend who's a big fan of Albedo.
 
 ## Features
 
